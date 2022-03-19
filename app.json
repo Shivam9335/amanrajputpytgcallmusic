@@ -7,7 +7,7 @@
         "VCBot",
         "MusicPlayer"
     ],
-    "repository": "https://github.com/amanrajput2001/amanrajputpytgcallmusic",
+    "repository": "https://github.com/shivam9335/amanrajputpytgcallmusic",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",
